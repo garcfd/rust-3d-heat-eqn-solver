@@ -1,0 +1,10 @@
+[package]
+name = "heat-solver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.13.0"
+
+
+# https://doc.rust-lang.org/cargo/reference/manifest.html
