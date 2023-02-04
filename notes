@@ -1,0 +1,5 @@
+rustc main.rs
+(or)
+cargo new heat-solver --bin
+cargo build    (debug version)
+cargo build --release
